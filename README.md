@@ -1,1 +1,3 @@
-# DSA-Tasca-1
+# CALCULADORA BASICA
+
+Alex Aguilera
